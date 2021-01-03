@@ -1,3 +1,4 @@
+//package keyboard는 키보드로부터 사용자의 입력을 읽어옵니다.
 package keyboard
 
 import (
